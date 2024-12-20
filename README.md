@@ -5,10 +5,9 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working on [Project Name](link-to-project).
-- 🌱 I’m learning more about cloud-native technologies and DevOps.
 - 💬 Ask me about React, Node.js, or anything Full Stack!
-- 📫 Reach me at: [Email](waleedjanjua16@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-waleed-zia-2a24051b5/)
+- 🥅 2025 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 💎 If you are a Tech boy/girl let's get connected
 
 ---
 
