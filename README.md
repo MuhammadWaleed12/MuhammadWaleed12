@@ -1,21 +1,79 @@
-# Hi there! 👋 I'm Muhammad Waleed
+<h1 align="center">Hey there 👋, I'm Muhammad Waleed Zia</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;FASTAPI%20|%20Django%20|%20AI%20|%20Enthusiast%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<br/>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
 
-🚀 **Full Stack Developer | AWS Enthusiast | Open Source Contributor**
+<!-- <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
----
+<a target="_blank" align="center">
+  <img align="right" top="500" height="450" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
+</a>
 
-### 💻 About Me
-- 💬 Ask me about React, Node.js, or anything Full Stack!
-- 🥅 2025 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected
+<!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
----
+- 🌱 I’m currently Working on Technologies(ReactJs, NextJs, NodeJs, NestJs,Python, Django(REST Framework),AWS,Docker)
 
-### 🛠️ Skills
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 🤝 I’m available for freelancing.
 
----
 
+- 📫 How to reach me **waleedjanjua16@gmail.com**
+- ⚡ Fun fact :- eat(); code(); sleep(); repeat();
+
+<!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammad-waleed-zia-2a24051b5/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.upwork.com/freelancers/~01f8fc9d5c085ffae4?viewMode=1">
+		<img src="https://img.icons8.com/color/40/000000/upwork.png" alt="Upwork Icon"></a>
+<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile"> -->
+<!-- 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a> -->
+<!-- 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc"> -->
+<!-- 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a> -->
+<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc"> -->
+<!-- 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> -->
+<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber"> -->
+<!-- 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
+<!-- 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf"> -->
+<!-- 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
+      </div>
+
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+      </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> 
+	 </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django"
+      width="40" height="40" /> 
+</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="react"  width="40" height="40" />
+</a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> 
+</p>
+
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/MuhammadWaleed12/count.svg" />
+</p>
