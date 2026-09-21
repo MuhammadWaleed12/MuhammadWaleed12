@@ -32,6 +32,13 @@ I build production-ready web platforms, AI agents, LLM evaluation systems, and d
 - **[AJAIA Docs](https://github.com/MuhammadWaleed12/ajaia-docs)** — a TypeScript documentation and knowledge project
 - **[Reddit Mastermind](https://github.com/MuhammadWaleed12/Reddit-Mastermind)** — a JavaScript-based Reddit project
 
+## Selected open-source contributions
+
+- **[dbt-plan #137](https://github.com/PresentJay/dbt-plan/pull/137) — merged:** prevented unresolved MCP analysis from being reported as safe, with regression coverage and a 1,666-test validation run
+- **[Cal.diy #30210](https://github.com/calcom/cal.diy/pull/30210) — under review:** fixed Microsoft Graph's Office365 webhook-validation handshake and added focused route coverage
+- **[agentsploit #5](https://github.com/agentsploit/agentsploit/pull/5) — under review:** added MCP prompt-poisoning detection with unit, fixture, and integration coverage
+- **[TokenPal #87](https://github.com/smabe/TokenPal/pull/87) — under review:** added reliable cancel-all behavior for persisted reminders with regression coverage
+
 ## Current interests
 
 I'm currently exploring reliable agent architectures, explainable AI, causal reasoning, cognitive digital twins, and rigorous evaluation of LLM-based systems.
