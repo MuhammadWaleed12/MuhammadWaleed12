@@ -35,6 +35,7 @@ I build production-ready web platforms, AI agents, LLM evaluation systems, and d
 ## Selected open-source contributions
 
 - **[dbt-plan #137](https://github.com/PresentJay/dbt-plan/pull/137) — merged:** prevented unresolved MCP analysis from being reported as safe, with regression coverage and a 1,666-test validation run
+- **[Apache Airflow #73533](https://github.com/apache/airflow/pull/73533) — under review:** prevents duplicate Kubernetes executor results from deleting the same worker pod twice, with focused regression coverage
 - **[Cal.diy #30210](https://github.com/calcom/cal.diy/pull/30210) — under review:** fixed Microsoft Graph's Office365 webhook-validation handshake and added focused route coverage
 - **[agentsploit #5](https://github.com/agentsploit/agentsploit/pull/5) — under review:** added MCP prompt-poisoning detection with unit, fixture, and integration coverage
 - **[TokenPal #87](https://github.com/smabe/TokenPal/pull/87) — under review:** added reliable cancel-all behavior for persisted reminders with regression coverage
