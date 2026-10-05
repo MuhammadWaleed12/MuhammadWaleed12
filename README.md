@@ -28,16 +28,16 @@ I build production-ready web platforms, AI agents, LLM evaluation systems, and d
 ## Featured work
 
 - **[Customer Support System](https://github.com/MuhammadWaleed12/customer-support-system)** — an AI-focused customer support application
-- **[Retail Analytics Copilot](https://github.com/MuhammadWaleed12/Retail-Analytics-Copilot)** — a Python analytics copilot for retail workflows
+- **[Retail Analytics Copilot](https://github.com/MuhammadWaleed12/Retail-Analytics-Copilot)** — a local-first LangGraph/DSPy agent combining cited document retrieval with read-only SQLite analytics and a Python 3.10–3.12 CI matrix
 - **[AJAIA Docs](https://github.com/MuhammadWaleed12/ajaia-docs)** — a TypeScript documentation and knowledge project
 - **[Reddit Mastermind](https://github.com/MuhammadWaleed12/Reddit-Mastermind)** — a JavaScript-based Reddit project
 
 ## Selected open-source contributions
 
 - **[dbt-plan #137](https://github.com/PresentJay/dbt-plan/pull/137) — merged:** prevented unresolved MCP analysis from being reported as safe, with regression coverage and a 1,666-test validation run
-- **[Apache Airflow #73533](https://github.com/apache/airflow/pull/73533) — under review:** prevents duplicate Kubernetes executor results from deleting the same worker pod twice, with focused regression coverage
 - **[Cal.diy #30210](https://github.com/calcom/cal.diy/pull/30210) — under review:** fixed Microsoft Graph's Office365 webhook-validation handshake and added focused route coverage
 - **[agentsploit #5](https://github.com/agentsploit/agentsploit/pull/5) — under review:** added MCP prompt-poisoning detection with unit, fixture, and integration coverage
+- **[agentsploit #6](https://github.com/agentsploit/agentsploit/pull/6) — under review:** added a deterministic payload-splitting prompt-injection technique with registry and regression coverage
 - **[TokenPal #87](https://github.com/smabe/TokenPal/pull/87) — under review:** added reliable cancel-all behavior for persisted reminders with regression coverage
 
 ## Current interests
