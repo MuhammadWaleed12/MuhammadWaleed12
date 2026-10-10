@@ -34,6 +34,7 @@ I build production-ready web platforms, AI agents, LLM evaluation systems, and d
 
 ## Selected open-source contributions
 
+- **[Prefect #23334](https://github.com/PrefectHQ/prefect/pull/23334) — merged:** fixed `prefect.yaml` creation when optional contents and project name are omitted, with focused regression coverage and full upstream CI validation
 - **[dbt-plan #137](https://github.com/PresentJay/dbt-plan/pull/137) — merged:** prevented unresolved MCP analysis from being reported as safe, with regression coverage and a 1,666-test validation run
 - **[Cal.diy #30210](https://github.com/calcom/cal.diy/pull/30210) — under review:** fixed Microsoft Graph's Office365 webhook-validation handshake and added focused route coverage
 - **[agentsploit #5](https://github.com/agentsploit/agentsploit/pull/5) — under review:** added MCP prompt-poisoning detection with unit, fixture, and integration coverage
