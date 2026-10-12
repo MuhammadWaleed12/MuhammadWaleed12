@@ -27,7 +27,7 @@ I build production-ready web platforms, AI agents, LLM evaluation systems, and d
 
 ## Featured work
 
-- **[Customer Support System](https://github.com/MuhammadWaleed12/customer-support-system)** — an AI-focused customer support application
+- **[Customer Support System](https://github.com/MuhammadWaleed12/customer-support-system)** — a TypeScript multi-agent support platform with auth-scoped order and billing tools, NDJSON streaming, deterministic CI, and Hono/React/Supabase architecture
 - **[Retail Analytics Copilot](https://github.com/MuhammadWaleed12/Retail-Analytics-Copilot)** — a local-first LangGraph/DSPy agent combining cited document retrieval with read-only SQLite analytics and a Python 3.10–3.12 CI matrix
 - **[AJAIA Docs](https://github.com/MuhammadWaleed12/ajaia-docs)** — a TypeScript documentation and knowledge project
 - **[Reddit Mastermind](https://github.com/MuhammadWaleed12/Reddit-Mastermind)** — a JavaScript-based Reddit project
