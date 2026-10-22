@@ -29,16 +29,16 @@ I build production-ready web platforms, AI agents, LLM evaluation systems, and d
 
 - **[Customer Support System](https://github.com/MuhammadWaleed12/customer-support-system)** — a TypeScript multi-agent support platform with auth-scoped order and billing tools, NDJSON streaming, deterministic CI, and Hono/React/Supabase architecture
 - **[Retail Analytics Copilot](https://github.com/MuhammadWaleed12/Retail-Analytics-Copilot)** — a local-first LangGraph/DSPy agent combining cited document retrieval with read-only SQLite analytics and a Python 3.10–3.12 CI matrix
-- **[AJAIA Docs](https://github.com/MuhammadWaleed12/ajaia-docs)** — a TypeScript documentation and knowledge project
-- **[Reddit Mastermind](https://github.com/MuhammadWaleed12/Reddit-Mastermind)** — a JavaScript-based Reddit project
+- **[AJAIA Docs](https://github.com/MuhammadWaleed12/ajaia-docs)** — a local-first Next.js 15 and TypeScript collaborative editor with Tiptap, libSQL, document imports, attachments, role-based sharing, and security-focused CI
+- **[Reddit Mastermind](https://github.com/MuhammadWaleed12/Reddit-Mastermind)** — a FastAPI and React content planner with validated typed inputs, an injectable content-provider interface, deterministic tests, and backend/frontend CI
 
 ## Selected open-source contributions
 
 - **[Prefect #23334](https://github.com/PrefectHQ/prefect/pull/23334) — merged:** fixed `prefect.yaml` creation when optional contents and project name are omitted, with focused regression coverage and full upstream CI validation
 - **[dbt-plan #137](https://github.com/PresentJay/dbt-plan/pull/137) — merged:** prevented unresolved MCP analysis from being reported as safe, with regression coverage and a 1,666-test validation run
 - **[Cal.diy #30210](https://github.com/calcom/cal.diy/pull/30210) — under review:** fixed Microsoft Graph's Office365 webhook-validation handshake and added focused route coverage
-- **[agentsploit #5](https://github.com/agentsploit/agentsploit/pull/5) — under review:** added MCP prompt-poisoning detection with unit, fixture, and integration coverage
-- **[agentsploit #6](https://github.com/agentsploit/agentsploit/pull/6) — under review:** added a deterministic payload-splitting prompt-injection technique with registry and regression coverage
+- **[agentsploit #5](https://github.com/agentsploit/agentsploit/pull/5) — merged:** added MCP prompt-poisoning detection across advertised and rendered prompts, with unit, fixture, and integration coverage
+- **[agentsploit #6](https://github.com/agentsploit/agentsploit/pull/6) — merged:** added deterministic indexed payload splitting with technique-registry and regression coverage
 - **[TokenPal #87](https://github.com/smabe/TokenPal/pull/87) — under review:** added reliable cancel-all behavior for persisted reminders with regression coverage
 
 ## Current interests
