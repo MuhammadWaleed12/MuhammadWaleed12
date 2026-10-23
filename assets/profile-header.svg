@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111F"/><stop offset=".55" stop-color="#102A43"/><stop offset="1" stop-color="#0B7285"/></linearGradient></defs>
+<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+<circle cx="1110" cy="45" r="180" fill="#38BDF8" opacity=".08"/><circle cx="70" cy="320" r="170" fill="#2DD4BF" opacity=".08"/>
+<path d="M80 265 Q330 180 590 260 T1120 200" fill="none" stroke="#2DD4BF" opacity=".25" stroke-width="2"/>
+<rect x="72" y="68" width="8" height="148" rx="4" fill="#38BDF8"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="108" y="125" font-size="51" font-weight="700" fill="#F8FAFC">Muhammad Waleed Zia</text>
+<text x="110" y="173" font-size="26" fill="#BAE6FD">Senior Full-Stack AI Engineer</text>
+<text x="110" y="215" font-size="20" fill="#CBD5E1">AI agents &#8226; Reliable LLM systems &#8226; Scalable web applications</text>
+<text x="110" y="272" font-size="16" fill="#5EEAD4">PYTHON / TYPESCRIPT / REACT / NEXT.JS</text></g></svg>
