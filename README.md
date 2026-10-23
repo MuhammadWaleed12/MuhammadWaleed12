@@ -45,12 +45,12 @@ I build production-ready web platforms, AI agents, LLM evaluation systems, and d
 
 Selected pull requests; follow the links for their current review and merge status.
 
-- **[Prefect #23334](https://github.com/PrefectHQ/prefect/pull/23334):**** fixed `prefect.yaml` creation when optional contents and project name are omitted, with focused regression coverage and full upstream CI validation
-- **[dbt-plan #137](https://github.com/PresentJay/dbt-plan/pull/137):**** prevented unresolved MCP analysis from being reported as safe, with regression coverage and a 1,666-test validation run
-- **[Cal.diy #30210](https://github.com/calcom/cal.diy/pull/30210):**** fixed Microsoft Graph's Office365 webhook-validation handshake and added focused route coverage
-- **[agentsploit #5](https://github.com/agentsploit/agentsploit/pull/5):**** added MCP prompt-poisoning detection across advertised and rendered prompts, with unit, fixture, and integration coverage
-- **[agentsploit #6](https://github.com/agentsploit/agentsploit/pull/6):**** added deterministic indexed payload splitting with technique-registry and regression coverage
-- **[TokenPal #87](https://github.com/smabe/TokenPal/pull/87):**** added reliable cancel-all behavior for persisted reminders with regression coverage
+- **[Prefect #23334](https://github.com/PrefectHQ/prefect/pull/23334)** — fixed `prefect.yaml` creation when optional contents and project name are omitted, with focused regression coverage and full upstream CI validation
+- **[dbt-plan #137](https://github.com/PresentJay/dbt-plan/pull/137)** — prevented unresolved MCP analysis from being reported as safe, with regression coverage and a 1,666-test validation run
+- **[Cal.diy #30210](https://github.com/calcom/cal.diy/pull/30210)** — fixed Microsoft Graph's Office365 webhook-validation handshake and added focused route coverage
+- **[agentsploit #5](https://github.com/agentsploit/agentsploit/pull/5)** — added MCP prompt-poisoning detection across advertised and rendered prompts, with unit, fixture, and integration coverage
+- **[agentsploit #6](https://github.com/agentsploit/agentsploit/pull/6)** — added deterministic indexed payload splitting with technique-registry and regression coverage
+- **[TokenPal #87](https://github.com/smabe/TokenPal/pull/87)** — added reliable cancel-all behavior for persisted reminders with regression coverage
 
 ## Current interests
 
